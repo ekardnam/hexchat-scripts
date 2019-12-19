@@ -2,6 +2,7 @@
 
 SCRIPTS=(
   join-chans.py
+  translate.py
 )
 HEXCHAT_DIR=~/.config/hexchat/addons
 REINSTALL=0
